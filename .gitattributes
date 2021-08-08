@@ -1,1 +1,2 @@
 static/wikihop/data.zip filter=lfs diff=lfs merge=lfs -text
+static/amazon/amazon_review_full_csv.tar.gz filter=lfs diff=lfs merge=lfs -text
